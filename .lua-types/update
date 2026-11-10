@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+cd "$(dirname "$0")"
+tmp="$(mktemp)"
+curl -fsSL https://raw.githubusercontent.com/hchunhui/librime-lua/master/contrib/librime.lua -o "$tmp"
+mv "$tmp" librime.lua

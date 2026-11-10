@@ -1,0 +1,4 @@
+{
+  "workspace.library": ["./.lua-types"],
+  "runtime.version": "LuaJIT"
+}

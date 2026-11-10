@@ -1,0 +1,23 @@
+patch:
+  style/color_scheme: apathy
+  style/color_scheme_dark: psionics
+  preset_color_schemes/apathy/candidate_list_layout: linear
+  preset_color_schemes/apathy/text_orientation: horizontal
+  preset_color_schemes/apathy/border_height: 2
+  preset_color_schemes/apathy/border_width: 2
+  preset_color_schemes/apathy/hilited_corner_radius: 5
+  preset_color_schemes/apathy/shadow_size: 5
+  preset_color_schemes/apathy/surrounding_extra_expansion: 5
+  preset_color_schemes/apathy/translucency: true
+  preset_color_schemes/apathy/mutual_exclusive: true
+  preset_color_schemes/apathy/show_paging: true
+  preset_color_schemes/psionics/candidate_list_layout: linear
+  preset_color_schemes/psionics/text_orientation: horizontal
+  preset_color_schemes/psionics/border_height: 2
+  preset_color_schemes/psionics/border_width: 2
+  preset_color_schemes/psionics/hilited_corner_radius: 5
+  preset_color_schemes/psionics/shadow_size: 5
+  preset_color_schemes/psionics/surrounding_extra_expansion: 5
+  preset_color_schemes/psionics/translucency: true
+  preset_color_schemes/psionics/mutual_exclusive: true
+  preset_color_schemes/psionics/show_paging: true

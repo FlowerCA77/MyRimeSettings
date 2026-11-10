@@ -1,0 +1,6 @@
+patch:
+  menu/page_size: 7
+  ascii_composer:
+    good_old_caps_lock: true
+    switch_key:
+      Caps_Lock: noop

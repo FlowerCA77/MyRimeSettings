@@ -1,0 +1,23 @@
+/build/
+/trash/
+*.userdb/
+*.log
+/sync/
+.DS_Store
+installation.yaml
+user.yaml
+**/*.db
+**/*.gram
+**/*.json
+
+**/*.yaml
+!**/*custom*.yaml
+**/*.txt
+!my_phrases.txt
+**/*.lua
+
+!.luarc.json
+
+# remember update {
+!lua/echo_always.lua
+# }
