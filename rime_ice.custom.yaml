@@ -14,4 +14,4 @@ __patch:
   # }
 patch:
   engine/translators/@before 0: lua_translator@*echo_always
-  lua_translator@echo_always/initial_quality: 1.15
+  lua_translator@echo_always/initial_quality: 0.8
